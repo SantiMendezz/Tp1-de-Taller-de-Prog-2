@@ -1,0 +1,17 @@
+C:\Santi\TaPr2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.exe
+C:\Santi\TaPr2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.deps.json
+C:\Santi\TaPr2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.runtimeconfig.json
+C:\Santi\TaPr2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.dll
+C:\Santi\TaPr2\Practico1\Practico1\bin\Debug\net6.0-windows\Practico1.pdb
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.vbproj.AssemblyReference.cache
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.Form1.resources
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.vbproj.GenerateResource.cache
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfoInputs.cache
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.AssemblyInfo.vb
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.vbproj.CoreCompileInputs.cache
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.dll
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\refint\Practico1.dll
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.pdb
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\Practico1.genruntimeconfig.cache
+C:\Santi\TaPr2\Practico1\Practico1\obj\Debug\net6.0-windows\ref\Practico1.dll
